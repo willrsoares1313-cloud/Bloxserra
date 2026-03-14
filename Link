@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>BloxSerra - Jogo Oficial</title>
+    <style>
+        body { background: #f5f5f5; font-family: Arial; text-align: center; }
+        .logo { width: 200px; margin-top: 30px; }
+        .button { background: #e91e63; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-size: 20px; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <img src="https://seu-link-da-logo.png" class="logo" alt="Logo BloxSerra">
+    <h1>SEJA BEM-VINDO AO BLOXSERRA!</h1>
+    <p>Jogo feito com amor em Itapecerica da Serra 🇧🇷</p>
+    <a href="https://seu-link-do-arquivo.zip" class="button">BAIXAR AGORA</a>
+</body>
+</html>
